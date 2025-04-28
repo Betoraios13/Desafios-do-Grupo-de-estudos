@@ -1,0 +1,14 @@
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 1.1\FocusFlow\FocusFlow\bin\Debug\net8.0\FocusFlow.exe
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 1.1\FocusFlow\FocusFlow\bin\Debug\net8.0\FocusFlow.deps.json
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 1.1\FocusFlow\FocusFlow\bin\Debug\net8.0\FocusFlow.runtimeconfig.json
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 1.1\FocusFlow\FocusFlow\bin\Debug\net8.0\FocusFlow.dll
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 1.1\FocusFlow\FocusFlow\bin\Debug\net8.0\FocusFlow.pdb
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 1.1\FocusFlow\FocusFlow\obj\Debug\net8.0\FocusFlow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 1.1\FocusFlow\FocusFlow\obj\Debug\net8.0\FocusFlow.AssemblyInfoInputs.cache
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 1.1\FocusFlow\FocusFlow\obj\Debug\net8.0\FocusFlow.AssemblyInfo.cs
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 1.1\FocusFlow\FocusFlow\obj\Debug\net8.0\FocusFlow.csproj.CoreCompileInputs.cache
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 1.1\FocusFlow\FocusFlow\obj\Debug\net8.0\FocusFlow.dll
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 1.1\FocusFlow\FocusFlow\obj\Debug\net8.0\refint\FocusFlow.dll
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 1.1\FocusFlow\FocusFlow\obj\Debug\net8.0\FocusFlow.pdb
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 1.1\FocusFlow\FocusFlow\obj\Debug\net8.0\FocusFlow.genruntimeconfig.cache
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 1.1\FocusFlow\FocusFlow\obj\Debug\net8.0\ref\FocusFlow.dll
