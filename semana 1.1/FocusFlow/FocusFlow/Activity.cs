@@ -26,27 +26,27 @@ namespace FocusFlow
             {
                 case float n when(n >= 90):
                     Console.WriteLine("\nVocê poderia: ");
-                    Console.WriteLine(GreaterThanNinetyMinutes());
+                    Console.WriteLine(GreaterThanNinetyMinutes() + " (90 minutos)");
                     Console.WriteLine($"E restam {userTime} minutos\n");
                     break;
                 case float n when (n >= 45):
                     Console.WriteLine("\nVocê poderia: ");
-                    Console.WriteLine(FortyFiveMinute());
+                    Console.WriteLine(FortyFiveMinute() + " (45 minutos)");
                     Console.WriteLine($"E restam {userTime} minutos\n");
                     break;
                 case float n when (n >= 20):
                     Console.WriteLine("\nVocê poderia: ");
-                    Console.WriteLine(TwentyMinutes());
+                    Console.WriteLine(TwentyMinutes() + " (20 minutos)");
                     Console.WriteLine($"E restam {userTime} minutos\n");
                     break;
                 case float n when (n >= 10):
                     Console.WriteLine("\nVocê poderia: ");
-                    Console.WriteLine(TenMinutes());
+                    Console.WriteLine(TenMinutes() + " (10 minutos)");
                     Console.WriteLine($"E restam {userTime} minutos\n");
                     break;
                 case float n when (n >= 5):
                     Console.WriteLine("\nVocê poderia: ");
-                    Console.WriteLine(FiveMinutes());
+                    Console.WriteLine(FiveMinutes() + " (5 minutos)");
                     Console.WriteLine($"E restam {userTime} minutos\n");
                     break;
             }
