@@ -74,6 +74,7 @@ public class Game {
 	}
 	
 	private void forQuit() {
+		input.close();
 		Print.printText(Print.spacingLeft(5) + "Digite 'end' para encerrar o jogo");
 	}
 	
