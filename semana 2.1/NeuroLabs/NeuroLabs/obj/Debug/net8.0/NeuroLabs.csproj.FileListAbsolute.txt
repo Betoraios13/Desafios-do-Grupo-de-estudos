@@ -1,0 +1,14 @@
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 2.1\NeuroLabs\NeuroLabs\bin\Debug\net8.0\NeuroLabs.exe
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 2.1\NeuroLabs\NeuroLabs\bin\Debug\net8.0\NeuroLabs.deps.json
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 2.1\NeuroLabs\NeuroLabs\bin\Debug\net8.0\NeuroLabs.runtimeconfig.json
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 2.1\NeuroLabs\NeuroLabs\bin\Debug\net8.0\NeuroLabs.dll
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 2.1\NeuroLabs\NeuroLabs\bin\Debug\net8.0\NeuroLabs.pdb
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 2.1\NeuroLabs\NeuroLabs\obj\Debug\net8.0\NeuroLabs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 2.1\NeuroLabs\NeuroLabs\obj\Debug\net8.0\NeuroLabs.AssemblyInfoInputs.cache
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 2.1\NeuroLabs\NeuroLabs\obj\Debug\net8.0\NeuroLabs.AssemblyInfo.cs
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 2.1\NeuroLabs\NeuroLabs\obj\Debug\net8.0\NeuroLabs.csproj.CoreCompileInputs.cache
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 2.1\NeuroLabs\NeuroLabs\obj\Debug\net8.0\NeuroLabs.dll
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 2.1\NeuroLabs\NeuroLabs\obj\Debug\net8.0\refint\NeuroLabs.dll
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 2.1\NeuroLabs\NeuroLabs\obj\Debug\net8.0\NeuroLabs.pdb
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 2.1\NeuroLabs\NeuroLabs\obj\Debug\net8.0\NeuroLabs.genruntimeconfig.cache
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\semana 2.1\NeuroLabs\NeuroLabs\obj\Debug\net8.0\ref\NeuroLabs.dll
