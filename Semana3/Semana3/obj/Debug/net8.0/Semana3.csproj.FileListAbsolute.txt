@@ -1,0 +1,14 @@
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\Semana3\Semana3\bin\Debug\net8.0\Semana3.exe
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\Semana3\Semana3\bin\Debug\net8.0\Semana3.deps.json
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\Semana3\Semana3\bin\Debug\net8.0\Semana3.runtimeconfig.json
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\Semana3\Semana3\bin\Debug\net8.0\Semana3.dll
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\Semana3\Semana3\bin\Debug\net8.0\Semana3.pdb
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\Semana3\Semana3\obj\Debug\net8.0\Semana3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\Semana3\Semana3\obj\Debug\net8.0\Semana3.AssemblyInfoInputs.cache
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\Semana3\Semana3\obj\Debug\net8.0\Semana3.AssemblyInfo.cs
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\Semana3\Semana3\obj\Debug\net8.0\Semana3.csproj.CoreCompileInputs.cache
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\Semana3\Semana3\obj\Debug\net8.0\Semana3.dll
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\Semana3\Semana3\obj\Debug\net8.0\refint\Semana3.dll
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\Semana3\Semana3\obj\Debug\net8.0\Semana3.pdb
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\Semana3\Semana3\obj\Debug\net8.0\Semana3.genruntimeconfig.cache
+D:\Documentos\Grupo de Estudos - Ciencia da Computação\Semana3\Semana3\obj\Debug\net8.0\ref\Semana3.dll
