@@ -7,8 +7,6 @@ public class Program
         while (true)
         {
             Console.Clear();
-            string input = string.Empty;
-
             string[] allowedOperation = { "+", "-", "*", "/" };
 
             Console.WriteLine("== CALCULADORA BÁSICA ==");
@@ -26,7 +24,7 @@ public class Program
 
             Console.Write("\nDigite o primeiro número: ");
 
-            input = Console.ReadLine() ?? "";
+            string input = Console.ReadLine() ?? "";
             var firstNumber = IsValidNumber(input);
 
             if (firstNumber == null)
@@ -51,22 +49,27 @@ public class Program
                     break;
                 case "*":
                     Console.WriteLine($"\nResultado: {firstNumber} * {secondNumber} = {firstNumber * secondNumber}");
+                    //result++
                     break;
                 case "/":
                     if (secondNumber == 0)
                     {
                         Console.WriteLine("\nErro: divisão por zero não é permitida.Encerrando.");
-                        break;
+                        return;
                     }
 
                     Console.WriteLine($"\nResultado: {firstNumber} / {secondNumber} = {firstNumber / secondNumber}");
                     break;
             }
+            //Corrigir a saída
+            //Console.WriteLine($"\nResultado: {firstNumber} {operation} {secondNumber} = {result}");
+
 
             Console.Write("\nDeseja realizar mais alguma conta? Se sim digite 's' ");
             input = Console.ReadLine() ?? "";
+            
 
-            if (input != "s")
+            if (input.ToLower()!= "s")
                 break;
         }
     }
