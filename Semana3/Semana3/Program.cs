@@ -26,6 +26,7 @@ public class Program
 
             string input = Console.ReadLine() ?? "";
             var firstNumber = IsValidNumber(input);
+            //double firstNumber;
 
             if (firstNumber == null)
                 break;
@@ -34,6 +35,7 @@ public class Program
 
             input = Console.ReadLine() ?? "";
             var secondNumber = IsValidNumber(input);
+            //double secondNumber;
 
             if (secondNumber == null)
                 break;
