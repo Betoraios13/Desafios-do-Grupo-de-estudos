@@ -12,3 +12,18 @@ D:\Documentos\Grupo de Estudos - Ciencia da Computação\Semana3\Semana3\obj\Deb
 D:\Documentos\Grupo de Estudos - Ciencia da Computação\Semana3\Semana3\obj\Debug\net8.0\Semana3.pdb
 D:\Documentos\Grupo de Estudos - Ciencia da Computação\Semana3\Semana3\obj\Debug\net8.0\Semana3.genruntimeconfig.cache
 D:\Documentos\Grupo de Estudos - Ciencia da Computação\Semana3\Semana3\obj\Debug\net8.0\ref\Semana3.dll
+E:\GitHub\Desafios-do-Grupo-de-Estudos\Semana3\Semana3\bin\Debug\net8.0\Semana3.exe
+E:\GitHub\Desafios-do-Grupo-de-Estudos\Semana3\Semana3\bin\Debug\net8.0\Semana3.deps.json
+E:\GitHub\Desafios-do-Grupo-de-Estudos\Semana3\Semana3\bin\Debug\net8.0\Semana3.runtimeconfig.json
+E:\GitHub\Desafios-do-Grupo-de-Estudos\Semana3\Semana3\bin\Debug\net8.0\Semana3.dll
+E:\GitHub\Desafios-do-Grupo-de-Estudos\Semana3\Semana3\bin\Debug\net8.0\Semana3.pdb
+E:\GitHub\Desafios-do-Grupo-de-Estudos\Semana3\Semana3\obj\Debug\net8.0\Semana3.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Desafios-do-Grupo-de-Estudos\Semana3\Semana3\obj\Debug\net8.0\Semana3.AssemblyInfoInputs.cache
+E:\GitHub\Desafios-do-Grupo-de-Estudos\Semana3\Semana3\obj\Debug\net8.0\Semana3.AssemblyInfo.cs
+E:\GitHub\Desafios-do-Grupo-de-Estudos\Semana3\Semana3\obj\Debug\net8.0\Semana3.csproj.CoreCompileInputs.cache
+E:\GitHub\Desafios-do-Grupo-de-Estudos\Semana3\Semana3\obj\Debug\net8.0\Semana3.sourcelink.json
+E:\GitHub\Desafios-do-Grupo-de-Estudos\Semana3\Semana3\obj\Debug\net8.0\Semana3.dll
+E:\GitHub\Desafios-do-Grupo-de-Estudos\Semana3\Semana3\obj\Debug\net8.0\refint\Semana3.dll
+E:\GitHub\Desafios-do-Grupo-de-Estudos\Semana3\Semana3\obj\Debug\net8.0\Semana3.pdb
+E:\GitHub\Desafios-do-Grupo-de-Estudos\Semana3\Semana3\obj\Debug\net8.0\Semana3.genruntimeconfig.cache
+E:\GitHub\Desafios-do-Grupo-de-Estudos\Semana3\Semana3\obj\Debug\net8.0\ref\Semana3.dll

@@ -24,48 +24,17 @@ public class Program
 
             Console.Write("\nDigite o primeiro número: ");
 
-            string input = Console.ReadLine() ?? "";
-            var firstNumber = IsValidNumber(input);
-            //double firstNumber;
-
-            if (firstNumber == null)
-                break;
+            string input = Console.ReadLine() ?? "".Replace('.', ',');
+            double firstNumber = IsValidNumber(input);
 
             Console.Write("\nDigite o segundo número: ");
 
-            input = Console.ReadLine() ?? "";
-            var secondNumber = IsValidNumber(input);
-            //double secondNumber;
+            input = Console.ReadLine() ?? "".Replace('.', ',');
+            double secondNumber = IsValidNumber(input);
 
-            if (secondNumber == null)
-                break;
+            var result = Calculate(firstNumber, secondNumber, operation);
 
-            // ← AQUI VOCÊ INSERE o switch-case e completa a lógica
-            switch (operation)
-            {
-                case "+":
-                    Console.WriteLine($"\nResultado: {firstNumber} + {secondNumber} = {firstNumber + secondNumber}");
-                    break;
-                case "-":
-                    Console.WriteLine($"\nResultado: {firstNumber} - {secondNumber} = {firstNumber - secondNumber}");
-                    break;
-                case "*":
-                    Console.WriteLine($"\nResultado: {firstNumber} * {secondNumber} = {firstNumber * secondNumber}");
-                    //result++
-                    break;
-                case "/":
-                    if (secondNumber == 0)
-                    {
-                        Console.WriteLine("\nErro: divisão por zero não é permitida.Encerrando.");
-                        return;
-                    }
-
-                    Console.WriteLine($"\nResultado: {firstNumber} / {secondNumber} = {firstNumber / secondNumber}");
-                    break;
-            }
-            //Corrigir a saída
-            //Console.WriteLine($"\nResultado: {firstNumber} {operation} {secondNumber} = {result}");
-
+            Console.WriteLine($"\nResultado: {firstNumber} {operation} {secondNumber} = {result}");
 
             Console.Write("\nDeseja realizar mais alguma conta? Se sim digite 's' ");
             input = Console.ReadLine() ?? "";
@@ -87,14 +56,34 @@ public class Program
         return true;
     }
 
-    private static double? IsValidNumber(string input)
+    private static double IsValidNumber(string input)
     {
         if (!double.TryParse(input, out double convertedNumber))
         {
             Console.WriteLine("Número inválido. Encerrando.");
-            return null;
+            Environment.Exit(0);
         }
 
         return convertedNumber;
+    }
+
+    private static double Calculate(double a,  double b,  string operation)
+    {
+        var operationTypes = new Dictionary<string, Func<double, double, double>>()
+        {
+            {"+", (x, y) => x + y },
+            {"-", (x, y) => x - y },
+            {"*", (x, y) => x * y },
+            {"/", (x, y) => x / y }
+        };
+
+        
+        if(operationTypes.TryGetValue(operation, out var func))
+        {
+            var result = func(a, b);
+            return result;
+        }
+
+        return 0;
     }
 }
