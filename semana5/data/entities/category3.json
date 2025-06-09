@@ -1,0 +1,162 @@
+[
+  {
+    "category": "País",
+    "answer": "Brasil",
+    "clues": [
+      "Fica na América do Sul",
+      "Tem a floresta Amazônica",
+      "Fala português",
+      "Tem o maior carnaval do mundo",
+      "Tem cinco regiões",
+      "É conhecido pelo futebol",
+      "Sua capital é Brasília",
+      "Tem a maior biodiversidade do planeta",
+      "Foi colonizado por Portugal",
+      "Possui o rio Amazonas"
+    ]
+  },
+  {
+    "category": "País",
+    "answer": "Japão",
+    "clues": [
+      "Fica na Ásia",
+      "É um arquipélago",
+      "Fala japonês",
+      "Tem o Monte Fuji",
+      "Conhecido por tecnologia avançada",
+      "Tem trens-bala",
+      "Sofreu bombardeios em 1945",
+      "Tem uma cultura milenar",
+      "Tem animes e mangás",
+      "Sua capital é Tóquio"
+    ]
+  },
+  {
+    "category": "País",
+    "answer": "Egito",
+    "clues": [
+      "Fica na África",
+      "Tem as pirâmides de Gizé",
+      "Foi governado por faraós",
+      "Tem o rio Nilo",
+      "Sua capital é Cairo",
+      "É famoso pela Esfinge",
+      "Tem um deserto vasto",
+      "Tem uma história antiga e rica",
+      "Fala árabe",
+      "Foi uma das primeiras civilizações do mundo"
+    ]
+  },
+  {
+    "category": "País",
+    "answer": "Estados Unidos",
+    "clues": [
+      "Fica na América do Norte",
+      "É uma potência econômica",
+      "Fala inglês",
+      "Sua capital é Washington, D.C.",
+      "Tem 50 estados",
+      "Possui Hollywood",
+      "Tem a Estátua da Liberdade",
+      "É conhecido por seu exército poderoso",
+      "Foi à Lua em 1969",
+      "É multicultural"
+    ]
+  },
+  {
+    "category": "País",
+    "answer": "França",
+    "clues": [
+      "Fica na Europa",
+      "Sua capital é Paris",
+      "Tem a Torre Eiffel",
+      "Fala francês",
+      "É famosa pela gastronomia",
+      "Tem o Museu do Louvre",
+      "Foi palco da Revolução Francesa",
+      "Conhecida pela moda",
+      "Tem vinhedos famosos",
+      "Faz parte da União Europeia"
+    ]
+  },
+  {
+    "category": "País",
+    "answer": "China",
+    "clues": [
+      "Fica na Ásia",
+      "Tem a Grande Muralha",
+      "Fala mandarim",
+      "Tem a maior população do mundo",
+      "É um dos países mais antigos",
+      "Sua capital é Pequim",
+      "Tem rápido crescimento econômico",
+      "É o berço do kung fu",
+      "Produz muito arroz",
+      "Possui regime comunista"
+    ]
+  },
+  {
+    "category": "País",
+    "answer": "Canadá",
+    "clues": [
+      "Fica na América do Norte",
+      "Sua capital é Ottawa",
+      "Fala inglês e francês",
+      "Tem vastas florestas",
+      "É muito frio no inverno",
+      "Tem o Lago Louise",
+      "É o segundo maior país em área",
+      "Famoso pelo xarope de bordo",
+      "Tem o hóquei como esporte popular",
+      "É muito seguro"
+    ]
+  },
+  {
+    "category": "País",
+    "answer": "Alemanha",
+    "clues": [
+      "Fica na Europa",
+      "Sua capital é Berlim",
+      "Fala alemão",
+      "Foi dividida após a Segunda Guerra",
+      "Tem a Oktoberfest",
+      "É conhecida por engenharia",
+      "Tem a Floresta Negra",
+      "Berço de filósofos e compositores",
+      "Faz parte da União Europeia",
+      "Tem o famoso Muro de Berlim"
+    ]
+  },
+  {
+    "category": "País",
+    "answer": "Austrália",
+    "clues": [
+      "É um país e um continente",
+      "Fica na Oceania",
+      "Fala inglês",
+      "Tem coalas e cangurus",
+      "Sua capital é Canberra",
+      "Tem a Grande Barreira de Corais",
+      "É cercada por oceanos",
+      "Tem clima quente e seco",
+      "Tem muitos desertos",
+      "Faz parte da Commonwealth"
+    ]
+  },
+  {
+    "category": "País",
+    "answer": "Itália",
+    "clues": [
+      "Fica na Europa",
+      "Sua capital é Roma",
+      "Fala italiano",
+      "É o berço do Império Romano",
+      "Famosa pela pizza e massas",
+      "Tem o Coliseu",
+      "Possui o Vaticano dentro de seu território",
+      "Tem cidades como Veneza e Florença",
+      "É rica em arte renascentista",
+      "Tem forma de bota no mapa"
+    ]
+  }
+]

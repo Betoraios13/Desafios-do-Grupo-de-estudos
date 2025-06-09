@@ -1,0 +1,162 @@
+[
+  {
+    "category": "Animal",
+    "answer": "Elefante",
+    "clues": [
+      "É um mamífero",
+      "Tem tromba longa",
+      "Possui presas de marfim",
+      "É o maior animal terrestre",
+      "Come plantas",
+      "Vive em manadas",
+      "Tem orelhas grandes",
+      "É muito inteligente",
+      "Habita a África e a Ásia",
+      "Pode pesar várias toneladas"
+    ]
+  },
+  {
+    "category": "Animal",
+    "answer": "Leão",
+    "clues": [
+      "É um felino",
+      "Conhecido como o rei da selva",
+      "Macho tem juba",
+      "É carnívoro",
+      "Vive em savanas",
+      "Habita principalmente a África",
+      "Ruge alto",
+      "Vive em grupos chamados alcateias",
+      "Caça em equipe",
+      "É símbolo de força e coragem"
+    ]
+  },
+  {
+    "category": "Animal",
+    "answer": "Golfinho",
+    "clues": [
+      "É um mamífero marinho",
+      "Muito inteligente",
+      "Usa ecolocalização",
+      "Vive em grupos",
+      "É amigável com humanos",
+      "Nada rapidamente",
+      "Respira por pulmões",
+      "Precisa subir à superfície para respirar",
+      "Pode saltar fora d'água",
+      "Emite sons para se comunicar"
+    ]
+  },
+  {
+    "category": "Animal",
+    "answer": "Tigre",
+    "clues": [
+      "É um grande felino",
+      "Tem listras pretas",
+      "É carnívoro",
+      "Habita florestas asiáticas",
+      "É solitário",
+      "Nada bem",
+      "Tem visão noturna",
+      "Caça emboscando a presa",
+      "É ágil e silencioso",
+      "Está ameaçado de extinção"
+    ]
+  },
+  {
+    "category": "Animal",
+    "answer": "Girafa",
+    "clues": [
+      "É o animal terrestre mais alto",
+      "Tem pescoço comprido",
+      "Alcança folhas no alto das árvores",
+      "Tem manchas pelo corpo",
+      "É herbívora",
+      "Vive em savanas",
+      "Possui língua longa e pegajosa",
+      "Corre em alta velocidade",
+      "Tem chifres pequenos chamados ossicones",
+      "Dormem por pouco tempo"
+    ]
+  },
+  {
+    "category": "Animal",
+    "answer": "Canguru",
+    "clues": [
+      "É um marsupial",
+      "Carrega filhotes na bolsa",
+      "Habita a Austrália",
+      "Salta para se locomover",
+      "Tem patas traseiras fortes",
+      "É herbívoro",
+      "Usa o rabo para equilíbrio",
+      "Tem boa visão",
+      "É ativo principalmente à noite",
+      "Vive em grupos chamados mobs"
+    ]
+  },
+  {
+    "category": "Animal",
+    "answer": "Pinguim",
+    "clues": [
+      "É uma ave",
+      "Não voa",
+      "Nada muito bem",
+      "Habita regiões frias",
+      "Tem penas impermeáveis",
+      "Come peixes e krill",
+      "Anda balançando",
+      "Choca ovos em cima dos pés",
+      "Vive em colônias",
+      "É preto e branco"
+    ]
+  },
+  {
+    "category": "Animal",
+    "answer": "Coruja",
+    "clues": [
+      "É uma ave",
+      "Ativa à noite",
+      "Tem olhos grandes",
+      "Voa silenciosamente",
+      "Se alimenta de roedores",
+      "Simboliza sabedoria",
+      "Gira a cabeça quase completamente",
+      "Tem excelente audição",
+      "Ninhos em árvores ou buracos",
+      "Vive em áreas urbanas e rurais"
+    ]
+  },
+  {
+    "category": "Animal",
+    "answer": "Jacaré",
+    "clues": [
+      "É um réptil",
+      "Tem corpo alongado",
+      "Possui dentes afiados",
+      "Vive em rios e pântanos",
+      "É carnívoro",
+      "Tem pele escamosa",
+      "Pode ficar horas submerso",
+      "É um predador de emboscada",
+      "Tem olhos e narinas no topo da cabeça",
+      "É parente dos crocodilos"
+    ]
+  },
+  {
+    "category": "Animal",
+    "answer": "Camaleão",
+    "clues": [
+      "É um réptil",
+      "Muda de cor",
+      "Tem olhos que se movem independentemente",
+      "É lento",
+      "Possui língua longa e pegajosa",
+      "Come insetos",
+      "Vive em árvores",
+      "Tem cauda preênsil",
+      "Usa camuflagem",
+      "É encontrado na África e Ásia"
+    ]
+  }
+]

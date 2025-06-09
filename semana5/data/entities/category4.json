@@ -1,0 +1,162 @@
+[
+  {
+    "category": "Famoso",
+    "answer": "Albert Einstein",
+    "clues": [
+      "Físico teórico",
+      "Criador da Teoria da Relatividade",
+      "Nascido na Alemanha",
+      "Ganhou o Prêmio Nobel de Física",
+      "Conhecido pela equação E=mc²",
+      "Trabalhou nos EUA",
+      "Tinha cabelo bagunçado",
+      "Era contra armas nucleares",
+      "Mudou a forma como entendemos o tempo",
+      "Morreu em 1955"
+    ]
+  },
+  {
+    "category": "Famoso",
+    "answer": "Pelé",
+    "clues": [
+      "Jogador de futebol brasileiro",
+      "Considerado o Rei do Futebol",
+      "Ganhou três Copas do Mundo",
+      "Jogou no Santos e no New York Cosmos",
+      "Fez mais de mil gols",
+      "Nome verdadeiro é Edson Arantes do Nascimento",
+      "Nasceu em Três Corações",
+      "Atuou como embaixador do esporte",
+      "Reconhecido mundialmente",
+      "Faleceu em 2022"
+    ]
+  },
+  {
+    "category": "Famoso",
+    "answer": "Elvis Presley",
+    "clues": [
+      "Cantor americano",
+      "É o Rei do Rock",
+      "Fez sucesso nos anos 50 e 60",
+      "Conhecido por seu topete",
+      "Nasceu no Mississippi",
+      "Cantava 'Jailhouse Rock'",
+      "Também era ator",
+      "Morreu em 1977",
+      "Ícone da cultura pop",
+      "Usava roupas brilhantes"
+    ]
+  },
+  {
+    "category": "Famoso",
+    "answer": "Beyoncé",
+    "clues": [
+      "Cantora pop e R&B",
+      "Ex-integrante do Destiny's Child",
+      "Casada com Jay-Z",
+      "Tem milhões de fãs no mundo",
+      "Lançou o álbum Lemonade",
+      "É conhecida por sua voz poderosa",
+      "É também atriz e empresária",
+      "Nascida em Houston, Texas",
+      "Tem uma filha chamada Blue Ivy",
+      "Vencedora de diversos Grammys"
+    ]
+  },
+  {
+    "category": "Famoso",
+    "answer": "Leonardo da Vinci",
+    "clues": [
+      "Artista renascentista",
+      "Pintou a Mona Lisa",
+      "Pintou A Última Ceia",
+      "Era também inventor",
+      "Estudou anatomia e engenharia",
+      "Escrevia espelhado",
+      "Nasceu na Itália",
+      "Viveu no século XV",
+      "Considerado um gênio",
+      "Estudava o voo dos pássaros"
+    ]
+  },
+  {
+    "category": "Famoso",
+    "answer": "Michael Jackson",
+    "clues": [
+      "Rei do Pop",
+      "Cantava Billie Jean e Thriller",
+      "Fez o moonwalk",
+      "Usava luva branca",
+      "Teve infância no Jackson 5",
+      "Fez sucesso mundial nos anos 80",
+      "Sofreu diversas cirurgias",
+      "Morreu em 2009",
+      "Foi muito polêmico",
+      "Tinha milhões de fãs"
+    ]
+  },
+  {
+    "category": "Famoso",
+    "answer": "Marie Curie",
+    "clues": [
+      "Cientista polonesa",
+      "Ganhou dois Prêmios Nobel",
+      "Estudou a radioatividade",
+      "Descobriu o polônio e o rádio",
+      "Foi pioneira entre as mulheres na ciência",
+      "Trabalhou com o marido Pierre",
+      "Faleceu por exposição à radiação",
+      "Primeira mulher a ganhar um Nobel",
+      "Foi professora universitária",
+      "Nasceu em Varsóvia"
+    ]
+  },
+  {
+    "category": "Famoso",
+    "answer": "Lionel Messi",
+    "clues": [
+      "Jogador de futebol argentino",
+      "Jogou muitos anos no Barcelona",
+      "Ganhou várias Bolas de Ouro",
+      "É canhoto",
+      "Baixo e habilidoso",
+      "Jogou na Copa do Mundo de 2022",
+      "Fez história no PSG e Inter Miami",
+      "Começou no Newell's Old Boys",
+      "Conhecido por dribles rápidos",
+      "Ídolo da Argentina"
+    ]
+  },
+  {
+    "category": "Famoso",
+    "answer": "Steve Jobs",
+    "clues": [
+      "Fundador da Apple",
+      "Revolucionou a tecnologia",
+      "Criou o iPhone",
+      "Usava sempre camiseta preta",
+      "Fundou a Pixar também",
+      "Saiu da própria empresa e voltou",
+      "Faleceu em 2011",
+      "Mudou a indústria da música",
+      "Criou o Macintosh",
+      "Era perfeccionista"
+    ]
+  },
+  {
+    "category": "Famoso",
+    "answer": "Taylor Swift",
+    "clues": [
+      "Cantora e compositora americana",
+      "Começou no country",
+      "Migrou para o pop",
+      "Tem muitos fãs jovens",
+      "Lançou o álbum '1989'",
+      "Regravou suas próprias músicas",
+      "Ganhou vários Grammys",
+      "É conhecida por escrever sobre seus relacionamentos",
+      "Faz turnês gigantes",
+      "Nascida na Pensilvânia"
+    ]
+  }
+]

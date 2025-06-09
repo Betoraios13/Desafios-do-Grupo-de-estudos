@@ -1,0 +1,162 @@
+[
+  {
+    "category": "Objeto",
+    "answer": "Relógio",
+    "clues": [
+      "Mostra as horas",
+      "Pode ser de pulso ou de parede",
+      "Funciona com bateria ou corda",
+      "Tem ponteiros ou visor digital",
+      "Usado para controlar o tempo",
+      "Pode ter alarme",
+      "É usado no dia a dia",
+      "Alguns são à prova d'água",
+      "Pode ser acessório de moda",
+      "Pode marcar segundos, minutos e horas"
+    ]
+  },
+  {
+    "category": "Objeto",
+    "answer": "Tesoura",
+    "clues": [
+      "Tem duas lâminas",
+      "Serve para cortar",
+      "Pode cortar papel, tecido ou cabelo",
+      "Usada em casa e na escola",
+      "Tem formato de pinça",
+      "Pode ser pequena ou grande",
+      "Tem um lado afiado",
+      "Requer cuidado no uso",
+      "Usada em artesanato",
+      "Pode ter ponta fina ou arredondada"
+    ]
+  },
+  {
+    "category": "Objeto",
+    "answer": "Celular",
+    "clues": [
+      "Usado para se comunicar",
+      "Faz chamadas e envia mensagens",
+      "Acessa a internet",
+      "Tira fotos",
+      "Pode instalar aplicativos",
+      "Tem tela sensível ao toque",
+      "Pode ter câmera frontal e traseira",
+      "Funciona com bateria",
+      "É portátil",
+      "Pode ser Android ou iPhone"
+    ]
+  },
+  {
+    "category": "Objeto",
+    "answer": "Cadeira",
+    "clues": [
+      "Serve para sentar",
+      "Tem encosto",
+      "Pode ter braços ou não",
+      "Feita de madeira, metal ou plástico",
+      "Usada em casa, escola ou escritório",
+      "Pode ser giratória",
+      "Pode ter rodinhas",
+      "Pode ser estofada",
+      "Faz parte de um conjunto com a mesa",
+      "Pode ser empilhável"
+    ]
+  },
+  {
+    "category": "Objeto",
+    "answer": "Lápis",
+    "clues": [
+      "Usado para escrever",
+      "Tem grafite por dentro",
+      "Pode ser apontado",
+      "Feito de madeira",
+      "Pode ser preto ou colorido",
+      "Usado por estudantes",
+      "Precisa de borracha para apagar",
+      "Tem forma cilíndrica ou sextavada",
+      "É barato",
+      "Pode ser mecânico"
+    ]
+  },
+  {
+    "category": "Objeto",
+    "answer": "Livro",
+    "clues": [
+      "Contém páginas",
+      "Usado para leitura",
+      "Pode ter capa dura ou mole",
+      "Pode ser de histórias ou de estudo",
+      "Tem autor",
+      "Pode ser ilustrado",
+      "Usado na escola",
+      "Pode ser lido em bibliotecas",
+      "Tem título e subtítulo",
+      "Pode ser impresso ou digital"
+    ]
+  },
+  {
+    "category": "Objeto",
+    "answer": "Chave",
+    "clues": [
+      "Serve para abrir fechaduras",
+      "Pode ser de casa ou carro",
+      "Feita de metal",
+      "Tem dentes ou ranhuras",
+      "Encaixa em uma fechadura específica",
+      "Carregada no chaveiro",
+      "Pode ter cópias",
+      "Importante para segurança",
+      "Pequena e portátil",
+      "Pode ser perdida com facilidade"
+    ]
+  },
+  {
+    "category": "Objeto",
+    "answer": "Óculos",
+    "clues": [
+      "Usado nos olhos",
+      "Melhora a visão",
+      "Pode proteger contra o sol",
+      "Tem lentes",
+      "Tem armação",
+      "Usado por quem tem miopia ou hipermetropia",
+      "Pode ter grau",
+      "Usado também como acessório",
+      "Pode ser de leitura",
+      "Pode embaçar com vapor"
+    ]
+  },
+  {
+    "category": "Objeto",
+    "answer": "Mochila",
+    "clues": [
+      "Usada para carregar objetos",
+      "Tem alças para os ombros",
+      "Usada por estudantes",
+      "Pode ter vários bolsos",
+      "Feita de tecido ou nylon",
+      "Serve para viagens ou escola",
+      "Pode carregar livros e notebooks",
+      "Fecha com zíper",
+      "Pode ter estampa",
+      "Pode ser impermeável"
+    ]
+  },
+  {
+    "category": "Objeto",
+    "answer": "Espelho",
+    "clues": [
+      "Reflete imagens",
+      "Feito de vidro",
+      "Usado para ver o rosto",
+      "Comum em banheiros",
+      "Pode ser de mão ou de parede",
+      "Mostra a aparência",
+      "Tem moldura ou não",
+      "Usado para maquiagem",
+      "Pode ser decorativo",
+      "Mostra imagens invertidas"
+    ]
+  }
+]
