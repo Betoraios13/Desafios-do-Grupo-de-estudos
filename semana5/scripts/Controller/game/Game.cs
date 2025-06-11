@@ -13,7 +13,7 @@ namespace scripts.Controller.game
         private List<Entity> entitiesCache = new();
         private Random random = new();
         private MyTimer timer = new();
-        private int score;
+        private int score = 0;
         private int rounds;
         private int minutes;
 
@@ -23,22 +23,68 @@ namespace scripts.Controller.game
             data.Load();
             entities = data.entitiesLoaded;
 
-            if (entities.Count > 0)
+            foreach (var entityInCache in entitiesCache)
             {
-                foreach (var entity in entitiesCache)
+                if (entities.Contains(entityInCache))
                 {
-                    if (entities.Contains(entity))
-                    {
-                        entities.Remove(entity);
-                    }
+                    entities.Remove(entityInCache);
                 }
             }
+
+            if (entities.Count == 0)
+                entities = data.entitiesLoaded;
         }
 
         private void CalculateScore()
         {
             minutes = timer.GetTime();
-            score = 100 - ((rounds - 1) * 10) - minutes;
+            score += 100 - ((rounds - 1) * 10) - minutes;
+        }
+
+        private void AddLeaderBoard()
+        {
+            var data = new DataLeaderBoard();
+            data.Load();
+
+            if (data.playersLoaded.Count < 10)
+            {
+                GameView.AddLeaderBoard();
+
+                string name = Console.ReadLine() ?? "";
+                name.Trim();
+
+                if (string.IsNullOrEmpty(name))
+                    name = "guess";
+
+                if (name.Length > 10)
+                        name.Remove(name[10], name.Length - 10);
+
+                data.playersLoaded.Add(new Player(name, score));
+                data.playersToSave = data.playersLoaded;
+                data.Save();
+                score = 0;
+                return;
+            }
+
+            if (score > data.playersLoaded.Last().score)
+            {
+                GameView.AddLeaderBoard();
+
+                string name = Console.ReadLine() ?? "";
+                name.Trim();
+
+                if (string.IsNullOrEmpty(name))
+                    name = "guess";
+
+                if (name.Length > 10)
+                        name.Remove(name[10], name.Length - 10);
+
+                data.playersLoaded.Remove(data.playersLoaded.Last());
+                data.playersLoaded.Add(new Player(name, score));
+                data.playersToSave = data.playersLoaded;
+                data.Save();
+                score = 0;
+            }
         }
 
         public void Start()
@@ -51,7 +97,7 @@ namespace scripts.Controller.game
 
             entitiesCache.Add(entity);
 
-            GameView.NewGame(entity.category);
+            GameView.NewGame(entity.categoria);
 
             ClickEnter.Press();
 
@@ -61,24 +107,26 @@ namespace scripts.Controller.game
         public void InGame(Entity entity)
         {
             timer.Start();
+            int attempts = entity.dicas.Count;
 
-            for (int i = 10; i > 0; i--)
+            for (int i = attempts; i > 0; i--)
             {
-                var index = random.Next(0, entity.clues.Count);
-                GameView.inGame(rounds, entity.clues[index]);
-                entity.clues.Remove(entity.clues[index]);
+                var index = random.Next(0, entity.dicas.Count);
+                GameView.inGame(rounds, entity.dicas[index]);
+                entity.dicas.Remove(entity.dicas[index]);
 
                 var input = Console.ReadLine() ?? "";
 
                 if (!string.IsNullOrEmpty(input))
                 {
-                    if (input.ToLower() == entity.answer.ToLower())
+                    if (input.ToLower() == entity.resposta.ToLower())
                     {
                         //Venceu
                         timer.Stop();
                         CalculateScore();
-                        GameView.Win(entity.answer, rounds, score);
-                        Console.ReadLine();
+                        GameView.Win(entity.resposta, rounds, score);
+                        ClickEnter.Press();
+                        AddLeaderBoard();
                         return;
                     }
 
@@ -88,7 +136,8 @@ namespace scripts.Controller.game
 
                     if (input.ToLower() == "desistir")
                     {
-                        GameView.GiveUp(entity.answer, score);
+                        score = 0;
+                        GameView.GiveUp(entity.resposta, score);
 
                         ClickEnter.Press();
 
@@ -98,7 +147,8 @@ namespace scripts.Controller.game
                 rounds++;
             }
 
-            GameView.GameOver(entity.answer);
+            score = 0;
+            GameView.GameOver(entity.resposta, score);
             
             ClickEnter.Press();
         }

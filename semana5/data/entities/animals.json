@@ -1,8 +1,8 @@
 [
   {
-    "category": "Animal",
-    "answer": "Elefante",
-    "clues": [
+    "categoria": "Animal",
+    "resposta": "Elefante",
+    "dicas": [
       "É um mamífero",
       "Tem tromba longa",
       "Possui presas de marfim",
@@ -16,9 +16,9 @@
     ]
   },
   {
-    "category": "Animal",
-    "answer": "Leão",
-    "clues": [
+    "categoria": "Animal",
+    "resposta": "Leão",
+    "dicas": [
       "É um felino",
       "Conhecido como o rei da selva",
       "Macho tem juba",
@@ -32,9 +32,9 @@
     ]
   },
   {
-    "category": "Animal",
-    "answer": "Golfinho",
-    "clues": [
+    "categoria": "Animal",
+    "resposta": "Golfinho",
+    "dicas": [
       "É um mamífero marinho",
       "Muito inteligente",
       "Usa ecolocalização",
@@ -48,9 +48,9 @@
     ]
   },
   {
-    "category": "Animal",
-    "answer": "Tigre",
-    "clues": [
+    "categoria": "Animal",
+    "resposta": "Tigre",
+    "dicas": [
       "É um grande felino",
       "Tem listras pretas",
       "É carnívoro",
@@ -64,9 +64,9 @@
     ]
   },
   {
-    "category": "Animal",
-    "answer": "Girafa",
-    "clues": [
+    "categoria": "Animal",
+    "resposta": "Girafa",
+    "dicas": [
       "É o animal terrestre mais alto",
       "Tem pescoço comprido",
       "Alcança folhas no alto das árvores",
@@ -80,9 +80,9 @@
     ]
   },
   {
-    "category": "Animal",
-    "answer": "Canguru",
-    "clues": [
+    "categoria": "Animal",
+    "resposta": "Canguru",
+    "dicas": [
       "É um marsupial",
       "Carrega filhotes na bolsa",
       "Habita a Austrália",
@@ -96,9 +96,9 @@
     ]
   },
   {
-    "category": "Animal",
-    "answer": "Pinguim",
-    "clues": [
+    "categoria": "Animal",
+    "resposta": "Pinguim",
+    "dicas": [
       "É uma ave",
       "Não voa",
       "Nada muito bem",
@@ -112,9 +112,9 @@
     ]
   },
   {
-    "category": "Animal",
-    "answer": "Coruja",
-    "clues": [
+    "categoria": "Animal",
+    "resposta": "Coruja",
+    "dicas": [
       "É uma ave",
       "Ativa à noite",
       "Tem olhos grandes",
@@ -128,9 +128,9 @@
     ]
   },
   {
-    "category": "Animal",
-    "answer": "Jacaré",
-    "clues": [
+    "categoria": "Animal",
+    "resposta": "Jacaré",
+    "dicas": [
       "É um réptil",
       "Tem corpo alongado",
       "Possui dentes afiados",
@@ -144,9 +144,9 @@
     ]
   },
   {
-    "category": "Animal",
-    "answer": "Camaleão",
-    "clues": [
+    "categoria": "Animal",
+    "resposta": "Camaleão",
+    "dicas": [
       "É um réptil",
       "Muda de cor",
       "Tem olhos que se movem independentemente",

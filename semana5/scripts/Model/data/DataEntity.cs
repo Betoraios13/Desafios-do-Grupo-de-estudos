@@ -1,6 +1,7 @@
 ﻿using System.Text.Json;
 using scripts.Model.data.paths;
 using scripts.Model;
+using System.Diagnostics;
 
 namespace scripts.Model.data
 {
@@ -14,18 +15,20 @@ namespace scripts.Model.data
 
         public override void Load()
         {
-            var random = new Random();
-            string fileName = $"category{random.Next(1, 4)}.json";
-            string path = Path.Combine(Paths.PATH_FOR_ENTITIES, fileName);
+            string fileExtension = "*.json";
+            string[] files = Directory.GetFiles(Paths.PATH_FOR_ENTITIES, fileExtension);
 
-            if (File.Exists(path))
+            if (Directory.Exists(Paths.PATH_FOR_ENTITIES))
             {
-                string json = File.ReadAllText(path);
-                entitiesLoaded = JsonSerializer.Deserialize<List<Entity>>(json) ?? new();
+                foreach (var file in files)
+                {
+                    string json = File.ReadAllText(file);
+                    entitiesLoaded.AddRange(JsonSerializer.Deserialize<List<Entity>>(json) ?? new());
+                }
                 return;
             }
 
-            Console.WriteLine("Arquivo ausente");
+            Console.WriteLine("Arquivos ou caminho ausente");
             Environment.Exit(0);
         }
     }

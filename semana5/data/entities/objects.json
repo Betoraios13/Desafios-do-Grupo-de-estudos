@@ -1,8 +1,8 @@
 [
   {
-    "category": "Objeto",
-    "answer": "Relógio",
-    "clues": [
+    "categoria": "Objeto",
+    "resposta": "Relógio",
+    "dicas": [
       "Mostra as horas",
       "Pode ser de pulso ou de parede",
       "Funciona com bateria ou corda",
@@ -16,9 +16,9 @@
     ]
   },
   {
-    "category": "Objeto",
-    "answer": "Tesoura",
-    "clues": [
+    "categoria": "Objeto",
+    "resposta": "Tesoura",
+    "dicas": [
       "Tem duas lâminas",
       "Serve para cortar",
       "Pode cortar papel, tecido ou cabelo",
@@ -32,9 +32,9 @@
     ]
   },
   {
-    "category": "Objeto",
-    "answer": "Celular",
-    "clues": [
+    "categoria": "Objeto",
+    "resposta": "Celular",
+    "dicas": [
       "Usado para se comunicar",
       "Faz chamadas e envia mensagens",
       "Acessa a internet",
@@ -48,9 +48,9 @@
     ]
   },
   {
-    "category": "Objeto",
-    "answer": "Cadeira",
-    "clues": [
+    "categoria": "Objeto",
+    "resposta": "Cadeira",
+    "dicas": [
       "Serve para sentar",
       "Tem encosto",
       "Pode ter braços ou não",
@@ -64,9 +64,9 @@
     ]
   },
   {
-    "category": "Objeto",
-    "answer": "Lápis",
-    "clues": [
+    "categoria": "Objeto",
+    "resposta": "Lápis",
+    "dicas": [
       "Usado para escrever",
       "Tem grafite por dentro",
       "Pode ser apontado",
@@ -80,9 +80,9 @@
     ]
   },
   {
-    "category": "Objeto",
-    "answer": "Livro",
-    "clues": [
+    "categoria": "Objeto",
+    "resposta": "Livro",
+    "dicas": [
       "Contém páginas",
       "Usado para leitura",
       "Pode ter capa dura ou mole",
@@ -96,9 +96,9 @@
     ]
   },
   {
-    "category": "Objeto",
-    "answer": "Chave",
-    "clues": [
+    "categoria": "Objeto",
+    "resposta": "Chave",
+    "dicas": [
       "Serve para abrir fechaduras",
       "Pode ser de casa ou carro",
       "Feita de metal",
@@ -112,9 +112,9 @@
     ]
   },
   {
-    "category": "Objeto",
-    "answer": "Óculos",
-    "clues": [
+    "categoria": "Objeto",
+    "resposta": "Óculos",
+    "dicas": [
       "Usado nos olhos",
       "Melhora a visão",
       "Pode proteger contra o sol",
@@ -128,9 +128,9 @@
     ]
   },
   {
-    "category": "Objeto",
-    "answer": "Mochila",
-    "clues": [
+    "categoria": "Objeto",
+    "resposta": "Mochila",
+    "dicas": [
       "Usada para carregar objetos",
       "Tem alças para os ombros",
       "Usada por estudantes",
@@ -144,9 +144,9 @@
     ]
   },
   {
-    "category": "Objeto",
-    "answer": "Espelho",
-    "clues": [
+    "categoria": "Objeto",
+    "resposta": "Espelho",
+    "dicas": [
       "Reflete imagens",
       "Feito de vidro",
       "Usado para ver o rosto",

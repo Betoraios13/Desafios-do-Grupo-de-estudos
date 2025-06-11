@@ -9,10 +9,20 @@ namespace scripts.Model.data
 {
     public class DataLeaderBoard : Data
     {
+        public List<Player> playersToSave { private get; set; } = new();
         public List<Player> playersLoaded { get; private set; } = new();
         public override void Save()
         {
-            throw new NotImplementedException();
+            playersToSave.Sort((x, y) => x.score.CompareTo(y.score));
+            playersToSave.Reverse();
+            
+            var jsonOptions = new JsonSerializerOptions()
+            {
+                WriteIndented = true
+            };
+
+            string json = JsonSerializer.Serialize<List<Player>>(playersToSave, jsonOptions);
+            File.WriteAllText(Paths.PATH_FOR_LEADERBOARD, json);
         }
 
         public override void Load()
@@ -21,6 +31,8 @@ namespace scripts.Model.data
             {
                 string json = File.ReadAllText(Paths.PATH_FOR_LEADERBOARD);
                 playersLoaded = JsonSerializer.Deserialize<List<Player>>(json) ?? new();
+                playersLoaded.Sort((x, y) => x.score.CompareTo(y.score));
+                playersLoaded.Reverse();
             }
             else
             {

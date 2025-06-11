@@ -9,7 +9,6 @@ namespace scripts.View
         public static List<Player> players = new();
         public static void Show()
         {
-
             Console.Clear();
 
             Console.WriteLine("+----------------------------------------+");

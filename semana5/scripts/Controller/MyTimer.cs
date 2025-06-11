@@ -4,17 +4,17 @@ namespace scripts.Controller.game
 {
     public class MyTimer
     {
-        private DateTime theNow = DateTime.Now;
+        private DateTime now = DateTime.Now;
         private int startTime;
         private int endTime;
         public void Start()
         {
-            startTime = int.Parse(theNow.ToString("mm"));
+            startTime = int.Parse(now.ToString("mm"));
         }
 
         public void Stop()
         {
-            endTime = int.Parse(theNow.ToString("mm"));
+            endTime = int.Parse(now.ToString("mm"));
         }
 
         public int GetTime()
@@ -25,6 +25,7 @@ namespace scripts.Controller.game
             }
             
             int totalTime;
+            
             if (startTime > endTime)
             {
                 int endToSixty = 60 - endTime;
@@ -32,7 +33,7 @@ namespace scripts.Controller.game
 
                 totalTime = endToSixty + startToSixty;
 
-                return Math.Abs(totalTime);
+                return totalTime;
             }
 
             totalTime = endTime - startTime;

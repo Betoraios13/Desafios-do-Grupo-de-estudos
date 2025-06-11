@@ -1,8 +1,8 @@
 [
   {
-    "category": "Famoso",
-    "answer": "Albert Einstein",
-    "clues": [
+    "categoria": "Famoso",
+    "resposta": "Albert Einstein",
+    "dicas": [
       "Físico teórico",
       "Criador da Teoria da Relatividade",
       "Nascido na Alemanha",
@@ -16,9 +16,9 @@
     ]
   },
   {
-    "category": "Famoso",
-    "answer": "Pelé",
-    "clues": [
+    "categoria": "Famoso",
+    "resposta": "Pelé",
+    "dicas": [
       "Jogador de futebol brasileiro",
       "Considerado o Rei do Futebol",
       "Ganhou três Copas do Mundo",
@@ -32,9 +32,9 @@
     ]
   },
   {
-    "category": "Famoso",
-    "answer": "Elvis Presley",
-    "clues": [
+    "categoria": "Famoso",
+    "resposta": "Elvis Presley",
+    "dicas": [
       "Cantor americano",
       "É o Rei do Rock",
       "Fez sucesso nos anos 50 e 60",
@@ -48,9 +48,9 @@
     ]
   },
   {
-    "category": "Famoso",
-    "answer": "Beyoncé",
-    "clues": [
+    "categoria": "Famoso",
+    "resposta": "Beyoncé",
+    "dicas": [
       "Cantora pop e R&B",
       "Ex-integrante do Destiny's Child",
       "Casada com Jay-Z",
@@ -64,9 +64,9 @@
     ]
   },
   {
-    "category": "Famoso",
-    "answer": "Leonardo da Vinci",
-    "clues": [
+    "categoria": "Famoso",
+    "resposta": "Leonardo da Vinci",
+    "dicas": [
       "Artista renascentista",
       "Pintou a Mona Lisa",
       "Pintou A Última Ceia",
@@ -80,9 +80,9 @@
     ]
   },
   {
-    "category": "Famoso",
-    "answer": "Michael Jackson",
-    "clues": [
+    "categoria": "Famoso",
+    "resposta": "Michael Jackson",
+    "dicas": [
       "Rei do Pop",
       "Cantava Billie Jean e Thriller",
       "Fez o moonwalk",
@@ -96,9 +96,9 @@
     ]
   },
   {
-    "category": "Famoso",
-    "answer": "Marie Curie",
-    "clues": [
+    "categoria": "Famoso",
+    "resposta": "Marie Curie",
+    "dicas": [
       "Cientista polonesa",
       "Ganhou dois Prêmios Nobel",
       "Estudou a radioatividade",
@@ -112,9 +112,9 @@
     ]
   },
   {
-    "category": "Famoso",
-    "answer": "Lionel Messi",
-    "clues": [
+    "categoria": "Famoso",
+    "resposta": "Lionel Messi",
+    "dicas": [
       "Jogador de futebol argentino",
       "Jogou muitos anos no Barcelona",
       "Ganhou várias Bolas de Ouro",
@@ -128,9 +128,9 @@
     ]
   },
   {
-    "category": "Famoso",
-    "answer": "Steve Jobs",
-    "clues": [
+    "categoria": "Famoso",
+    "resposta": "Steve Jobs",
+    "dicas": [
       "Fundador da Apple",
       "Revolucionou a tecnologia",
       "Criou o iPhone",
@@ -144,9 +144,9 @@
     ]
   },
   {
-    "category": "Famoso",
-    "answer": "Taylor Swift",
-    "clues": [
+    "categoria": "Famoso",
+    "resposta": "Taylor Swift",
+    "dicas": [
       "Cantora e compositora americana",
       "Começou no country",
       "Migrou para o pop",

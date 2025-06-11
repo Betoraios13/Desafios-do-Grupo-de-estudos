@@ -1,22 +1,42 @@
 [
-    {
-        "name": "Lionel Messi",
-        "score": 500
-    },
-    {
-        "name": "Cristiano Ronaldo",
-        "score": 450
-    },
-    {
-        "name": "Neymar Junior",
-        "score": 400
-    },
-    {
-        "name": "Kilian Mbappé",
-        "score": 350
-    },
-    {
-        "name": "Lamine Yamal",
-        "score": 300
-    }
+  {
+    "name": "Lorena",
+    "score": 200
+  },
+  {
+    "name": "James",
+    "score": 190
+  },
+  {
+    "name": "Mario",
+    "score": 190
+  },
+  {
+    "name": "Phellipe",
+    "score": 190
+  },
+  {
+    "name": "Alberto",
+    "score": 150
+  },
+  {
+    "name": "Estefane",
+    "score": 120
+  },
+  {
+    "name": "Jos\u00E9",
+    "score": 100
+  },
+  {
+    "name": "carlos",
+    "score": 100
+  },
+  {
+    "name": "Robert",
+    "score": 100
+  },
+  {
+    "name": "Greg\u00F3rio",
+    "score": 100
+  }
 ]

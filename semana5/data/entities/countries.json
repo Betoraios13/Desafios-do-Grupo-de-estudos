@@ -1,8 +1,8 @@
 [
   {
-    "category": "País",
-    "answer": "Brasil",
-    "clues": [
+    "categoria": "País",
+    "resposta": "Brasil",
+    "dicas": [
       "Fica na América do Sul",
       "Tem a floresta Amazônica",
       "Fala português",
@@ -16,9 +16,9 @@
     ]
   },
   {
-    "category": "País",
-    "answer": "Japão",
-    "clues": [
+    "categoria": "País",
+    "resposta": "Japão",
+    "dicas": [
       "Fica na Ásia",
       "É um arquipélago",
       "Fala japonês",
@@ -32,9 +32,9 @@
     ]
   },
   {
-    "category": "País",
-    "answer": "Egito",
-    "clues": [
+    "categoria": "País",
+    "resposta": "Egito",
+    "dicas": [
       "Fica na África",
       "Tem as pirâmides de Gizé",
       "Foi governado por faraós",
@@ -48,9 +48,9 @@
     ]
   },
   {
-    "category": "País",
-    "answer": "Estados Unidos",
-    "clues": [
+    "categoria": "País",
+    "resposta": "Estados Unidos",
+    "dicas": [
       "Fica na América do Norte",
       "É uma potência econômica",
       "Fala inglês",
@@ -64,9 +64,9 @@
     ]
   },
   {
-    "category": "País",
-    "answer": "França",
-    "clues": [
+    "categoria": "País",
+    "resposta": "França",
+    "dicas": [
       "Fica na Europa",
       "Sua capital é Paris",
       "Tem a Torre Eiffel",
@@ -80,9 +80,9 @@
     ]
   },
   {
-    "category": "País",
-    "answer": "China",
-    "clues": [
+    "categoria": "País",
+    "resposta": "China",
+    "dicas": [
       "Fica na Ásia",
       "Tem a Grande Muralha",
       "Fala mandarim",
@@ -96,9 +96,9 @@
     ]
   },
   {
-    "category": "País",
-    "answer": "Canadá",
-    "clues": [
+    "categoria": "País",
+    "resposta": "Canadá",
+    "dicas": [
       "Fica na América do Norte",
       "Sua capital é Ottawa",
       "Fala inglês e francês",
@@ -112,9 +112,9 @@
     ]
   },
   {
-    "category": "País",
-    "answer": "Alemanha",
-    "clues": [
+    "categoria": "País",
+    "resposta": "Alemanha",
+    "dicas": [
       "Fica na Europa",
       "Sua capital é Berlim",
       "Fala alemão",
@@ -128,9 +128,9 @@
     ]
   },
   {
-    "category": "País",
-    "answer": "Austrália",
-    "clues": [
+    "categoria": "País",
+    "resposta": "Austrália",
+    "dicas": [
       "É um país e um continente",
       "Fica na Oceania",
       "Fala inglês",
@@ -144,9 +144,9 @@
     ]
   },
   {
-    "category": "País",
-    "answer": "Itália",
-    "clues": [
+    "categoria": "País",
+    "resposta": "Itália",
+    "dicas": [
       "Fica na Europa",
       "Sua capital é Roma",
       "Fala italiano",

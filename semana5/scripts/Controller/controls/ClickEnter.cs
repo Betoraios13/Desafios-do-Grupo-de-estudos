@@ -13,6 +13,8 @@ namespace scripts.Controller.controls
                 inputKey = info.Key;
 
             } while (inputKey != ConsoleKey.Enter);
+
+            Console.Clear();
         }
     }
 }
